@@ -1,2 +1,6 @@
 # AI-in-Healthcare
- An intersection of clinical care and digital health. Applying HIPAA and healthcare data privacy concepts to real‑world AI workflows: exploring PHI de‑identification, privacy‑by‑design, to help build safer, compliant AI and health informatics solutions for global impact.
+
+Over the past few weeks, I’ve been deepening my understanding of HIPAA and the handling of protected health information (PHI), with a focus on how these principles apply in digital and AI-enabled healthcare environments. 
+
+Working through practical scenarios has helped me think more critically about topics like data governance, access controls, de‑identification, and audit trails, especially as AI tools become more integrated into clinical and administrative workflows. 
+

@@ -1,0 +1,11 @@
+The scope of the project is as follows:
+Using the HIPAA guidelines, use existing AI engines to create a case scenario to demonstrate how to achieve compliance to de-identification standards
+
+Input: Start by prompting a conversation with the AI engine to assess contextual awareness of the topic. Once the engine references information on HIPAA compliance, ask to demonstrate non-compliance with a simple prompt:  
+Please create a non-compliant case based on the 18 indentifiers
+As part of the assessment of the output, I focus on the following:
+
+1. Can the AI create a convincing clinical scenario
+2. Does it pay attention to the tone, adequately using medical terminology
+3. Are there any detectable errors or hallucinations
+4. Are there any biases detected

@@ -7,3 +7,21 @@ The main aim is to determine what data elements are considered PHI under HIPAA (
 4. Classify:
  - PHI: Matches HIPAA's 18 identifiers or can identify an individual.
  - Not PHI: Doesn't identify individuals.
+
+**HIPAA PHI identifiers**
+1. names
+2. geographic subdivisions smaller than a state
+3. all elements of dates (except year) plus ages over 89
+4. telephone numbers
+5. fax numbers
+6. email addresses
+7. Social Security numbers
+8. medical record numbers
+9. health plan beneficiary numbers
+10. account numbers
+11. certificate/license numbers
+12. vehicle identifiers and serial numbers 13. device identifiers and serial numbers 14. web URLs
+15. IP addresses
+16. biometric identifiers
+17. full-face photographs 
+18. comparable images; and any other unique identifying number, characteristic, or code.

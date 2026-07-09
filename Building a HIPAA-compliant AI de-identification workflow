@@ -1,0 +1,9 @@
+The main aim is to determine what data elements are considered PHI under HIPAA (e.g., names, dates, IDs, locations). One such means would be to :
+
+
+1. Identify Data Elements: List all data fields (e.g., name, DOB, address).
+2. Check HIPAA's PHI Definition: See if it matches 18 PHI identifiers (e.g., names, dates, IDs).
+3. Assess Identifiability: Can data be linked to an individual?
+4. Classify:
+ - PHI: Matches HIPAA's 18 identifiers or can identify an individual.
+ - Not PHI: Doesn't identify individuals.

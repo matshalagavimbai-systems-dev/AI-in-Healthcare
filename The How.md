@@ -1,6 +1,6 @@
 ### How this project works
 
-We’re approaching this project in small, practical steps so it stays grounded in real‑world healthcare workflows rather than abstract theory.
+I approach this project in small, practical steps so it stays grounded in real‑world healthcare workflows rather than abstract theory.
 
 1. **Clarifying PHI and HIPAA concepts**  
    We start by mapping out what counts as protected health information (PHI) in typical clinical and administrative datasets, and how HIPAA’s rules apply in AI‑driven contexts (e.g., model training, inference, and data sharing).
